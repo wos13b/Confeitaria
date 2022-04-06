@@ -1,0 +1,55 @@
+
+@font-face{
+    font-family:Fake_Iden;
+    src: url('Font/Fake_Identity.ttf') format('truetype');
+}
+
+header{
+
+    background-color: yellow;
+
+}
+#Logo{
+
+    font-family:Fake_Iden;
+    text-align: center;
+    margin: 20px 150px 20px 150px;
+    
+}
+
+body{
+
+    height: 94vh;
+
+}
+p{
+
+    text-align:justify ;
+
+}
+
+nav{
+
+    margin: auto 160px;
+    text-align: center;
+
+}
+nav > a{
+
+    margin: auto 20px;
+    color: black;
+    text-decoration: none;
+
+}
+nav > a:hover{
+
+    color:blue;
+    text-decoration: underline;
+
+}
+a{
+    font-size: 2em;
+}
+footer > p{
+    text-align: center;
+}
