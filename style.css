@@ -1,13 +1,20 @@
 
 
-#Logo{
+h1{
+
+    margin: auto;
+
+}
+
+header{
 
     background-color: yellow;
     text-align: center;
     margin: 4px auto;
     min-width: 20%;
     max-width: 98%;
-    
+    border-radius: 20px 20px 0px 0px;
+
 }
 
 body{
