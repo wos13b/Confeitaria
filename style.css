@@ -4,22 +4,21 @@
     src: url('Font/Fake_Identity.ttf') format('truetype');
 }
 
-header{
-
-    background-color: yellow;
-
-}
 #Logo{
 
+    background-color: yellow;
     font-family:Fake_Iden;
     text-align: center;
-    margin: 20px 150px 20px 150px;
+    margin: 4px auto;
+    max-width: 80%;
+    min-width: 40%;
     
 }
 
 body{
 
     height: 94vh;
+    margin: auto 2px;
 
 }
 p{
