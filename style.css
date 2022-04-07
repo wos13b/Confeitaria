@@ -1,16 +1,11 @@
 
-@font-face{
-    font-family:Fake_Iden;
-    src: url('Font/Fake_Identity.ttf') format('truetype');
-}
 
 #Logo{
 
     background-color: yellow;
-    font-family:Fake_Iden;
     text-align: center;
     margin: 4px auto;
-    min-width: 10%;
+    min-width: 20%;
     max-width: 80%;
     
 }
@@ -31,7 +26,7 @@ nav{
 
     margin: auto ;
     text-align: center;
-    min-width: 10%;
+    min-width: 20%;
     max-width: 80%;
 
 }
@@ -40,7 +35,7 @@ nav > a{
     margin: auto 20px;
     color: black;
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 1em;
 
 }
 nav > a:hover{
