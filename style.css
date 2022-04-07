@@ -29,8 +29,10 @@ p{
 
 nav{
 
-    margin: auto 160px;
+    margin: auto ;
     text-align: center;
+    max-width: 80%;
+    min-width: 40%;
 
 }
 nav > a{
