@@ -53,3 +53,29 @@ a{
 footer > p{
     text-align: center;
 }
+
+.bloco_int{
+
+    margin: 5px;
+    border-radius: 20%;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+
+}
+
+#bolo_1:hover{
+
+    background-color: blue;
+
+}
+#bolo_2:hover{
+
+    background-color: blue;
+
+}
+#bolo_3:hover{
+
+    background-color: blue;
+
+}
