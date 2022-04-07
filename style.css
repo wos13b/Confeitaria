@@ -10,8 +10,8 @@
     font-family:Fake_Iden;
     text-align: center;
     margin: 4px auto;
+    min-width: 10%;
     max-width: 80%;
-    min-width: 40%;
     
 }
 
@@ -31,8 +31,8 @@ nav{
 
     margin: auto ;
     text-align: center;
+    min-width: 10%;
     max-width: 80%;
-    min-width: 40%;
 
 }
 nav > a{
@@ -48,9 +48,7 @@ nav > a:hover{
     color:blue;
 
 }
-a{
-    font-size: 2em;
-}
+
 footer > p{
     text-align: center;
 }
