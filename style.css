@@ -25,10 +25,31 @@ body{
 }
 #conteudo{
 
+    transition: .4s;
     background: black;
     height: 400px;
     width: 400px;
     margin: auto;
+
+}
+#conteudo.active{
+
+    background: #3f3f3f;
+    transition: .8s;
+    border-radius: 50%;
+
+}
+#conteudo h1{
+
+    text-align: center;
+    transition: .4s;
+    color: white;
+
+}
+#conteudo.active h1{
+
+    transition: .4s;
+    color: black;
 
 }
 footer > p{
