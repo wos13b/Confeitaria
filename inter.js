@@ -9,11 +9,11 @@ function conteudo_click(){
     conteudo.classList.toggle('active')
 
 }
-function conteudo_enter(){
+/*function conteudo_enter(){
 
     conteudo.style.background = '#3f3f3f'
 
-}
+}*/
 function conteudo_exit(){
 
     conteudo.style.background = 'black'

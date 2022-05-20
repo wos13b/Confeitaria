@@ -26,7 +26,8 @@ body{
 #conteudo{
 
     transition: .4s;
-    background: black;
+    background-image: url(img/bolo.jpg);
+    background-size: cover;
     height: 400px;
     width: 400px;
     margin: auto;
@@ -34,7 +35,6 @@ body{
 }
 #conteudo.active{
 
-    background: #3f3f3f;
     transition: .8s;
     border-radius: 50%;
 
